@@ -8,9 +8,12 @@ defineProps<{
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      You’ve successfully created a project with
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>. What's next?
+      C'est clairement de la merde, mais c'est pas grave, on va y arriver
+      et puis .. c'est tout !
+      Mais Johan est un gros con, et il faut le dire !
+      Et killian aussi !
+      et martin est un gros pd !
+      Et Antoine lui il est pas là, mais il est pas mieux !
     </h3>
   </div>
 </template>
